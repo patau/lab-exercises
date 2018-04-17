@@ -1,7 +1,7 @@
 ## Part 1: Debugging
 
 my_num <- 6
-initials <- "?. ?."
+initials <- "P. A."
 
 my_vector <- c(my_num, initials)
 
